@@ -2,11 +2,11 @@
 
 A production-ready backend service that performs graph-based identity resolution across multiple purchases using email and phone number linkage.
 
-Base Url: https://identity-reconciliation-epws.onrender.com/
+Base Url: https://bite-speed-c1xf.onrender.com
 
 Identify Endpoint: POST /identify
 
-Example: POST https://identity-reconciliation-epws.onrender.com/identify
+Example: POST https://bite-speed-c1xf.onrender.com/identify
 
 ## Request Format:
 ```
@@ -40,4 +40,4 @@ Example: POST https://identity-reconciliation-epws.onrender.com/identify
 - Render
 
 ## Author:
-Soham Shah
+Vipul Yadav
