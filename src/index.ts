@@ -45,7 +45,7 @@ app.get("/", (_req, res) => {
         <p>This service performs graph-based identity resolution using email and phone numbers.</p>
 
         <h2>Endpoint</h2>
-        <p><code>POST https://identity-reconciliation-epws.onrender.com/identify</code></p>
+        <p><code>POST https://bite-speed-c1xf.onrender.com/identify</code></p>
 
         <h2>Request Format</h2>
         <pre>{
